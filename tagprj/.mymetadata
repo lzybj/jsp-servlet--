@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="tagprj"
+  id="myeclipse.1368968140161"
+  context-root="/tagprj"
+  j2ee-spec="5.0"
+  archive="tagprj.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
