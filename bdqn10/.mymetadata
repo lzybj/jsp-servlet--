@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="bdqn10"
+  id="myeclipse.1372898713141"
+  context-root="/bdqn10"
+  j2ee-spec="5.0"
+  archive="bdqn10.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
